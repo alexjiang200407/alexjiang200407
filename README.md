@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Alex Jiang</h1>
 
 <p align="center">
-  <b>Frontend Engineer</b> building for the web with React — and chasing pixels with C++ and D3D12.
+  ☀️ By day, <b>Frontend Engineer @ TikTok</b><br/>
+  🌙 By night, chasing pixels in a C++ D3D12
 </p>
 
 <p align="center">
